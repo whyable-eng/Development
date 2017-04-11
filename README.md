@@ -5,7 +5,7 @@
 #### Contents
 
 1. Framework and architecture
-    * [Architecture]()
+    * [Architecture](/architecture/diagrams)
     * [API Framework]()
     * [Frontend architecture]()
     * [Configurations files]()
