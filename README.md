@@ -5,10 +5,10 @@
 #### Contents
 
 1. Framework and architecture
-    * [Architecture](/architecture/diagrams)
-    * [API Framework]()
-    * [Frontend architecture]()
-    * [Configurations files]()
+    * [Architecture](https://whyable-eng.github.io/Development//architecture/diagrams)
+    * [API Framework](https://whyable-eng.github.io/Development//architecture/framework)
+    * [Frontend architecture](https://whyable-eng.github.io/Development//architecture/front-end)
+    * [Configurations files](https://whyable-eng.github.io/Development//architecture/configurations)
 
 2. API design
     * [Security and access control]()
